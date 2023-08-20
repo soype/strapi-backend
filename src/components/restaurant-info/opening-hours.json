@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_restaurant_info_opening_hours",
+  "info": {
+    "displayName": "Opening hours",
+    "icon": "chartBubble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "hours": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    }
+  }
+}
